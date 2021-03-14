@@ -4,7 +4,7 @@ package gochroma
 
 import (
 	"github.com/go-fingerprint/fingerprint"
-	"github.com/go-fingerprint/gochroma/chromaprint"
+	"github.com/raidancampbell/gochroma/chromaprint"
 	"io"
 )
 
